@@ -11,8 +11,8 @@ let nazi = 48;
 alert(mia + izo++ - nazi );
 
 
-const brain = 101;
-if (brain > 100) {
+const brain = 50;
+if (brain > 51) {
     console.log('Decline');
 }  else {
     console.log('Decline');
